@@ -1,0 +1,30 @@
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+C:\Users\Clearance Morumudi\source\repos\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojAssemblyReference.cache
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.CoreCompileInputs.cache
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+E:\My Application workout\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
